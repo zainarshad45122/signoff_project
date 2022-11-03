@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "459694830583",
+    "project_id": "allotrac-project",
+    "storage_bucket": "allotrac-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459694830583:android:925e2fe2c8663e0f1fb4f2",
+        "android_client_info": {
+          "package_name": "com.projectmgtapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459694830583-lh7os49cc8o5rq3uunh01otvop6rfm21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projectmgtapp",
+            "certificate_hash": "e6e7b9abcf9c01d37b561e90af0c55888c898117"
+          }
+        },
+        {
+          "client_id": "459694830583-820dbfd4nnql15n1rs4icg7jamu1o3bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8-T8Ad4RvcQEcl8OFExb-w-omfU3sFVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459694830583-820dbfd4nnql15n1rs4icg7jamu1o3bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
